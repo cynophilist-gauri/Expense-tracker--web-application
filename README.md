@@ -1,5 +1,7 @@
 # Expense Tracker Application
 
+![Demo Screenshot](images/demo.png)
+
 ## Description
 
 This is a full-stack Expense Tracker application built with React for the front end and Node.js with Express for the back end. The application helps users track their income and expenses, view financial summaries, and manage their transactions effectively.
